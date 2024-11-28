@@ -3,7 +3,7 @@ This is a Django-based project that allows users to manage and interact with var
 
 Installation Instructions: 
 1. Clone the Repository: 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/SRR23/Devskill-Assignment-1.git
 cd repo-name
 
 3. Create and Activate a Virtual Environment (Optional but Recommended): 
