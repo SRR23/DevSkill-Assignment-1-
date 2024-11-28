@@ -7,7 +7,7 @@ git clone https://github.com/SRR23/Devskill-Assignment-1.git
 cd repo-name
 
 3. Create and Activate a Virtual Environment (Optional but Recommended): 
-python -m venv venv
+python -m venv venv  
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 5. Install Dependencies: 
